@@ -19,8 +19,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 420,
-        "y": 180,
+        "x": 500,
+        "y": 320,
         "wires": []
     },
     {
@@ -44,8 +44,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 160,
-        "y": 180,
+        "x": 340,
+        "y": 160,
         "wires": [
             [
                 "3b0fc6c69f2e265a"
